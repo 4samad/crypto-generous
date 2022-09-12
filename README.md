@@ -8,3 +8,35 @@ A Dapp where you can donate to a vetted charity/philanthropy project and get an 
 - Burn or Sell owned Generous NFTs on the app. 💰
 - DAO and Governance Tokens.
 - ✨ Specials for  Top Donors.
+
+
+## Demo (on goerli)
+
+🚀 link: [[W.I.P]](#)
+
+
+## Why?
+
+- To change the way we view charity and donations.
+- Promote transparency in philanthropy.
+- Help overcome cold feet due to fear of future while donating.
+- Eliminate unfair censorships on donations.
+
+## Project Structure
+
+- **Frontend I** - For Users (React)
+
+- **Web Backend** (Express)
+
+- **Contract I** - ERC721 for projects (Solidity)
+
+- **Contract II** - For DAO (Solidity)
+
+- **Contract III** - ERC20 Token for governance (Solidity)
+
+- **Snapshot for DAO interactions**
+  
+--
+
+--
+ `🦓 ` An Encode EthSafari Hackathon Project
