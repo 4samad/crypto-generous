@@ -10,9 +10,9 @@ A Dapp where you can donate to a vetted charity/philanthropy project and get an 
 - ✨ Specials for  Top Donors.
 
 
-## Demo (on goerli)
+## Demo (on polygon mumbai)
 
-🚀 link: [[W.I.P]](#)
+🚀 link: [cryptogenerous.netlify.app/](https://cryptogenerous.netlify.app/)
 
 
 ## Why?
