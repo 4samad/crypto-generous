@@ -37,6 +37,3 @@ A Dapp where you can donate to a vetted charity/philanthropy project and get an 
 - **Snapshot for DAO interactions**
   
 --
-
---
- `🦓 ` An Encode EthSafari Hackathon Project
